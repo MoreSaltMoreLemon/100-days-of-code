@@ -17,3 +17,11 @@
 **Thoughts**: Working through the Intro to Gatsby tutorial and appreciating just how impressive all the work that has gone into Gatsby and the technologies it draws from are. First introduction to Emotion, and first use of GraphQL queries, and it's all amazing. However it completely overshoots what I need for a simple static site that can be coded up with very little JS. I'll need to decide just what I want to do, as it's looking like total overkill.
 
 **Goals for Tomorrow**: Lay out HTML skeleton, develop style guide and pencil in content.
+
+### Day 1: May 14, 2019
+
+**Today's Progress**: Roughly.Recipes Finalizing
+
+**Thoughts**: Addressing lingering issues and finalizing details in my Flatiron final project, Roughly.Recipes. Lots of little CSS tweaks, comments, and code cleanup.
+
+**Goals for Tomorrow**: Refactor the recipe ingredient and sub recipe forms to share code and add functionality for navigating to sub recipes.
